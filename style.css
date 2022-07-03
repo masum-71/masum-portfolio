@@ -65,12 +65,14 @@ p{
     box-shadow: 10px 5px 25px gray;
     padding-left: 25px;
     border-left: 7px solid orangered;
+    min-height: 350px;
 }
 
 .right{
     box-shadow: 10px 5px 25px gray;
     padding-left: 25px;
     border-left: 7px solid rgb(38, 94, 245);
+    min-height: 350px;
 }
 
 footer p{
