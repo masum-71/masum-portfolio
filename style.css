@@ -17,7 +17,7 @@
 }
 .half{
     width: 50%;
-    margin-left: 5%;
+    margin:0 5%;
 }
 
 h1{
@@ -45,4 +45,10 @@ p{
     rgb(255, 128, 0));
     padding: 10px 35px;
     border-radius: 10px;
+}
+
+.dream{
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
